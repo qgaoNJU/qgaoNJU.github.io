@@ -7,9 +7,8 @@ type: page
 ---
 * content
 {:toc}
-
-## Educational Background
 <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+## Educational Background
 2015.9 ~ present Nanjing University Bachelor of Engineering in Microelectronic Science and Engineering
 * Major GPA: 4.67/5.00 (rank #1/195); Overall GPA: 4.6/5.0 (rank #1/47 #3/195)
 * Research Interests: DSP; wireless communication;hardware-aware machine learning
