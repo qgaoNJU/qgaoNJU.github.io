@@ -1,2 +1,44 @@
-add:
+administrator@ubuntu:~/http/qgaoNJU.github.io$ git add -A
+administrator@ubuntu:~/http/qgaoNJU.github.io$ git status
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
 
+要提交的变更：
+  （使用 "git reset HEAD <文件>..." 以取消暂存）
+
+	新文件:       commad lines
+	新文件:       commad lines~
+	修改:         index.html
+	新文件:       index.html~
+	修改:         page/4about.md
+	修改:         page/4about.md~
+
+administrator@ubuntu:~/http/qgaoNJU.github.io$ git commit -m "change files"
+[master 06ced27] change files
+ Committer: Administrator <administrator@ubuntu.ubuntu-domain>
+您的姓名和邮件地址基于登录名和主机名进行了自动设置。请检查它们正确
+与否。您可以对其进行设置以免再出现本提示信息：
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+设置完毕后，您可以用下面的命令来修正本次提交所使用的用户身份：
+
+    git commit --amend --reset-author
+
+ 6 files changed, 168 insertions(+), 4 deletions(-)
+ create mode 100644 commad lines
+ create mode 100644 commad lines~
+ create mode 100644 index.html~
+administrator@ubuntu:~/http/qgaoNJU.github.io$ git push -u origin master
+Username for 'https://github.com': qgao@smail.nju.edu.cn
+Password for 'https://qgao@smail.nju.edu.cn@github.com': 
+Counting objects: 26, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 2.05 KiB | 0 bytes/s, done.
+Total 7 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/qgaoNJU/qgaoNJU.github.io
+   274db57..06ced27  master -> master
+分支 master 设置为跟踪来自 origin 的远程分支 master。

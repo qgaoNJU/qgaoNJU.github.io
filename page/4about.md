@@ -7,7 +7,6 @@ type: page
 ---
 * content
 {:toc}
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 ## Educational Background
 2015.9 ~ present Nanjing University Bachelor of Engineering in Microelectronic Science and Engineering
 * Major GPA: 4.67/5.00 (rank #1/195); Overall GPA: 4.6/5.0 (rank #1/47 #3/195)
@@ -41,10 +40,10 @@ type: page
 
 ### Publications/Presentations
 
-* Song, L.; Wang, Y.; *Gao Q.*; Guo, Y.; Wang, Q.; Qian, J.; Jiang, S.; Wu, B.; Wang, X.; Shi, Y.; Zheng, Y.; Li, Y. Speed up Ferroelectric Organic Transistor Memories by Using Two-Dimensional Molecular Crystalline Semiconductors. ACS Appl. Mater. Interfaces, 2017, 9 (21), 1812718133.
-* Kang, L.; *Gao, Q*. The Driving Principle of Magnetic Power Small Train and Analysis of Influence Factors. Journal of Taiyuan College (Natural Science Edition), 2017, 3, 4044.
-* *Gao, Q.*; Shi, Y. Introduction to Flexible RFID & Flexible Micro Electro Mechanical Systems (F-MEMS). In Integrated Circuit Industry [M]; China Industrial and Commercial Publishing Group: Beijing, 2018; pp, 17731779.
-* Lijun Kang, *Qian Gao*. Research on Hand Gesture Detection and Tracking Applied to Human-Computer Interaction System in Virtual Reality. Machine Tool and Hydraulics, 2018, (18), 169173, 192.
+* Song, L.; Wang, Y.; *Gao Q.*; Guo, Y.; Wang, Q.; Qian, J.; Jiang, S.; Wu, B.; Wang, X.; Shi, Y.; Zheng, Y.; Li, Y. Speed up Ferroelectric Organic Transistor Memories by Using Two-Dimensional Molecular Crystalline Semiconductors. ACS Appl. Mater. Interfaces, 2017, 9 (21), 18127~18133.
+* Kang, L.; *Gao, Q*. The Driving Principle of Magnetic Power Small Train and Analysis of Influence Factors. Journal of Taiyuan College (Natural Science Edition), 2017, 3, 40~44.
+* *Gao, Q.*; Shi, Y. Introduction to Flexible RFID & Flexible Micro Electro Mechanical Systems (F-MEMS). In Integrated Circuit Industry [M]; China Industrial and Commercial Publishing Group: Beijing, 2018; pp, 1773~1779.
+* Lijun Kang, *Qian Gao*. Research on Hand Gesture Detection and Tracking Applied to Human-Computer Interaction System in Virtual Reality. Machine Tool and Hydraulics, 2018, (18), 169~173, 192.
 * *Gao, Q*. Developing Radio-Frequency (RF) Transmitters for Efficiency and Fidelity. Presented at CNSI lobby, UCLA, Los Angeles, September 2018; Poster.
 
 ## Extracurricular Activities
